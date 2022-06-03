@@ -1,2 +1,2 @@
 # ShortFiction
-Blog of short fiction.
+Short fiction on my main homepage. Unrelated to Hafestran Rose subscription feeds.
