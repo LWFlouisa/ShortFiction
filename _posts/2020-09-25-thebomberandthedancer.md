@@ -1,5 +1,5 @@
 ---
-title: The Bomber And The Dancer
+title: CursedHope
 published: true
 ---
 It was a cold evening, when the sky had a slight Green tint to it. Masami had gone home from work to visit his brother, who had taken an early requirement do to an unexplained illness. At home, his brother had become infected by some mysterious parasite that effected him, when he was working in a government-run lab.
